@@ -12,7 +12,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     // red = 1
-    // yellow = 0
+    // yellow = 2
     int playerTurn = 1;
     boolean gameOver = false;
 
