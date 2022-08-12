@@ -10,6 +10,7 @@ and displays winner when 3 in row is achieved.
 
 * Used image Views to create better UI (previous vesion used text 'x' and 'o')
 * Animated images to appear to drop in screen
+* Published to Google app store
 
  
 
