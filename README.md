@@ -13,4 +13,4 @@ and displays winner when 3 in row is achieved.
 
  
 
-![](tictactGameView.png)
+![](connect3GameView.png)
